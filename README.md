@@ -52,26 +52,16 @@ The competition goal is simple: **use machine learning to predict which passenge
 
 ## 📂 Repository Structure
 
-project-root/
-
-├── predictions/                    # Contains CSV files of predictions from various models
-
-│   ├── random_forest_predictions.csv
-
-│   ├── gradient_boosting_predictions.csv
-
-│   ├── logistic_regression_predictions.csv
-
-│   ├── neural_network_predictions.csv
-
-│   └── …
-
-├── notebook.ipynb                  # Jupyter notebook with code and analysis
-
-├── test.csv                        # Test data from Kaggle
-
-├── requirements.txt                # Python dependencies for the project
-
+project-root/ 
+├── predictions/                    # Contains CSV files of predictions from various models 
+│   ├── random_forest_predictions.csv 
+│   ├── gradient_boosting_predictions.csv 
+│   ├── logistic_regression_predictions.csv 
+│   ├── neural_network_predictions.csv 
+│   └── … 
+├── notebook.ipynb                  # Jupyter notebook with code and analysis 
+├── test.csv                        # Test data from Kaggle 
+├── requirements.txt                # Python dependencies for the project 
 └── README.md                       # This file
 
 ---
